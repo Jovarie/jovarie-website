@@ -31,6 +31,13 @@ header, .intro{
     gap:15%;
 }
 
+
+.left-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .logo {
     font-size: 24px;
 }
@@ -149,6 +156,9 @@ img {
     color: #f9faf8;
 }
 .content-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width:144px;
     height:144px;
     /* border: 3px solid #f7601b; */
