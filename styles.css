@@ -144,7 +144,7 @@ img {
     flex-flow: row wrap;
 }
 
-
+/* be careful of the s */
 
 .card {
     max-width: 150px;
